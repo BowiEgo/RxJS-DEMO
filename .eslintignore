@@ -1,0 +1,5 @@
+build/*.js
+config/*.js
+src/pages/*.vue
+src/common/*.js
+src/common/shape/*.js
